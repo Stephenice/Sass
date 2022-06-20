@@ -6,7 +6,7 @@
 .pnp.js
 /dist
 /.parcel-cache
-/2. Compiling SASS/node_modules
+/Building a CSS library/node_modules
 
 # testing
 /coverage
